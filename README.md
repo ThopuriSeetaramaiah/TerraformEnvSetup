@@ -38,4 +38,4 @@ Before you begin, make sure you have the following:
 10. **Connect to the EC2 instance:** Use VS Code's Remote SSH extension to connect to your EC2 instance from your local machine.
 
 ## Conclusion
-By following these steps, you can create a secure, isolated AWS environment for developers to work in, and make it easily accessible using VS Code's Remote SSH extension. Happy coding!# TerraformEnvSetup
+By following these steps, you can create a secure, isolated AWS environment for developers to work in, and make it easily accessible using VS Code's Remote SSH extension. Happy coding!
